@@ -32,5 +32,6 @@ Projetos e evolução como desenvolvedor
 
 📫 Contato
 🔗 LinkedIn: https://www.linkedin.com/in/alesant/
+🔗 Perfil DIO: https://web.dio.me/users/alexsantosfelipe28?tab=achievements
 📧 alexsantosfelipe28@gmail.com
 
