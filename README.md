@@ -1,7 +1,11 @@
 👋 Olá, eu sou Alex Felipe
+
 🎓 Formando em Biomedicina (foco em tecnologia e diagnóstico por imagem)
+
 💻 Estudante de Informática para Internet no IFCE
+
 🚀 Aluno da Digital Innovation One | Embaixador – Turma 15 do DIO Campus Expert
+
 🌍 Ceará, Brasil
 
 🚀 Sobre mim
