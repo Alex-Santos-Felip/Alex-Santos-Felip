@@ -1,4 +1,4 @@
-👋 Olá, eu sou Alex Felipe
+👋 Olá, eu sou Alex Santos
 
 🎓 Formando em Biomedicina (foco em tecnologia e diagnóstico por imagem)
 
