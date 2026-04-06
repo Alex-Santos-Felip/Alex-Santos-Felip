@@ -22,7 +22,9 @@ Sou um profissional em formação que integra saúde e tecnologia para desenvolv
 
 🛠️ Principais Competências
 Linguagens: HTML5, CSS3, JavaScript
+
 Ferramentas: Canva, Photoshop
+
 Áreas de atuação: Diagnóstico por Imagem, Design Gráfico, Front-end, UI/UX
 
 📊 GitHub Stats
